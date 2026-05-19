@@ -1,4 +1,3 @@
-
 Shield Insurance wanted to improve business decision-making by analyzing customer behavior, revenue performance, and policy trends using data analytics.
 
 The company needed a centralized analytical solution to monitor:
