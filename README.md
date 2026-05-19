@@ -163,18 +163,35 @@ Shield_Insurance_Analysis/
 │
 └── README.md
 
-🚀 Power BI Dashboard
+```bash
+
+
+# 📊 Power BI Dashboard
 
 This project includes an interactive Power BI dashboard designed to analyze customer behavior, revenue performance, policy trends, and city-wise insurance business performance.
 
-The dashboard provides insights into premium trends, customer segmentation, policy analysis, sales performance, and settlement behavior across multiple cities.
+The dashboard provides insights into premium trends, customer segmentation, policy performance, sales channel efficiency, and settlement behavior across multiple cities.
 
-🔗 View the Live Interactive Dashboard
+🔑 Dashboard Highlights
+Executive overview of business KPIs
+Customer growth and revenue performance tracking
+City-wise insurance performance analysis
+Sales mode effectiveness (Online vs Offline-Agent)
+Age-group based customer segmentation
+Monthly premium and revenue trend analysis
+Policy and settlement performance insights
+# 🔗 View the Live Interactive Dashboard
 
-👉 Open Power BI Dashboard
+# 👉 Open Power BI Dashboard
 
-🏁 Conclusion
+# 🏁 Conclusion
 
-This project demonstrates how raw insurance and operational data can be transformed into meaningful insights using modern data analytics and business intelligence tools.
+This project demonstrates how raw insurance and operational data can be transformed into meaningful business insights using SQL, Python, and Power BI.
 
-By combining SQL, Python, and Power BI, the project provides a structured analytical approach to evaluate business performance, understand customer behavior, identify revenue trends, and support data-driven business decisions for the insurance sector.
+By integrating multiple data sources and performing structured analysis, the project helps in:
+
+Understanding customer behavior patterns
+Tracking revenue and premium trends
+Identifying high-performing policies and cities
+Improving sales channel strategy
+Supporting data-driven decision-making in the insurance domain
