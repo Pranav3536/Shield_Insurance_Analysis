@@ -1,12 +1,11 @@
-# 🛡️ Shield Insurance Analysis Project
-
-Power BI | SQL | Python | Data Analytics
+<h1 align="center">🛡️ Shield Insurance Analysis Project</h1>
+<p align="center">Power BI | SQL | Python | Data Analytics</p>
 
 👤 Author: PRANAV SHRIVASTAV
 
-Shield Insurance Analysis is an end-to-end data analytics and business intelligence project focused on analyzing customer behavior, revenue performance, policy trends, and sales channel effectiveness across different cities in India.
+Shield Insurance Analysis is an end-to-end **data analytics and business intelligence project** focused on analyzing customer behavior, revenue performance, policy trends, and sales channel effectiveness across different cities in India.
 
-The objective of this project is to transform raw insurance datasets into meaningful business insights using SQL, Python, and Power BI. The analysis helps understand customer demographics, premium revenue trends, policy performance, settlement behavior, and operational growth to support data-driven business decisions.
+The objective of this project is to transform raw insurance datasets into meaningful insights using **SQL, Python, Excel, and Power BI**. The analysis helps understand customer demographics, premium revenue trends, policy performance, settlement behavior, and operational growth to support **data-driven business decisions**.
 
 ---
 
@@ -26,27 +25,27 @@ The main objectives of this project are:
 
 # 🗂 Dataset Description
 
-The dataset represents operational insurance data from Shield Insurance and contains multiple dimension and fact tables used for analysis.
+The dataset represents operational insurance data from **Shield Insurance** and contains multiple business entities used for analysis.
 
 The dataset includes:
 
-- Customer Data – Customer demographics, age groups, and city information
-- Premium Transactions Data – Revenue and insurance premium records
-- Policies Data – Insurance policy details and coverage information
-- Settlement Data – Settlement percentages and risk-related insights
-- Date Data – Time dimension used for monthly trend analysis
+- **Customer Data** – Customer demographics, age groups, and city information  
+- **Premium Transactions Data** – Revenue and insurance premium records  
+- **Policies Data** – Insurance policy details and coverage information  
+- **Settlement Data** – Settlement percentages and risk-related insights  
+- **Date Data** – Time dimension used for monthly trend analysis  
 
-These datasets were processed and analyzed using SQL queries, Python notebooks, and Power BI dashboards to generate meaningful business insights.
+These datasets were processed and analyzed using **SQL queries and Python notebooks** to generate meaningful insights.
 
 ---
 
 # 🛠 Tools & Technologies Used
 
-- SQL – Data extraction and analytical queries
-- Python – Exploratory data analysis and data processing
-- Power BI – Interactive dashboards and data visualization
-- Pandas & Matplotlib – Data analysis and visualization
-- GitHub – Project documentation and version control
+- **SQL** – Data extraction and analytical queries  
+- **Python** – Exploratory data analysis and data processing  
+- **Power BI** – Interactive dashboards and data visualization  
+- **Microsoft Excel** – Data exploration and reporting support  
+- **GitHub** – Project documentation and version control  
 
 ---
 
@@ -56,13 +55,13 @@ The Power BI dashboard provides multiple analytical views to understand insuranc
 
 Key dashboard features include:
 
-- Executive overview of business performance
+- Executive overview of overall business performance
 - Customer growth and revenue analysis
-- City-wise performance analysis
+- City-wise business performance analysis
 - Sales mode and distribution analysis
 - Age-group customer segmentation
 - Monthly premium trend analysis
-- Settlement and policy analysis
+- Settlement and policy performance analysis
 
 ---
 
@@ -125,22 +124,23 @@ Shield_Insurance_Analysis/
 │   └── Future_Scope.txt
 │
 ├── Assets
-│   ├── Dashboard_Background.png.png
+│   ├── Dashboard_Background.png
 │   └── shield_insurance_logo.png
 │
 └── README.md
 
-# 🚀 Power BI Dashboard
+🚀 Power BI Dashboard
 
-This project includes an interactive Power BI dashboard designed to analyze customer behavior, revenue trends, policy performance, and sales channel effectiveness.
+This project includes an interactive Power BI dashboard designed to analyze customer behavior, revenue performance, policy trends, and city-wise insurance business performance.
 
-The dashboard provides insights into customer distribution, premium collections, revenue growth, and city-wise business performance across multiple insurance segments.
+The dashboard provides insights into premium trends, customer segmentation, policy analysis, sales performance, and settlement behavior across multiple cities.
 
-## 🔗 View the Live Interactive Dashboard
+🔗 View the Live Interactive Dashboard
 
-👉 [Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTdmZDhmZmUtZjMyNy00MDk3LTkxYzMtY2Y4NDkxZGE3N2ViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=14f5371d0915afc46e6a)
-# 🏁 Conclusion
+👉 Open Power BI Dashboard
+
+🏁 Conclusion
 
 This project demonstrates how raw insurance and operational data can be transformed into meaningful insights using modern data analytics and business intelligence tools.
 
-By combining SQL, Python, and Power BI, the project provides a structured analytical approach to evaluate business performance, understand customer behavior, identify revenue trends, and support data-driven business decisions for Shield Insurance.
+By combining SQL, Python, and Power BI, the project provides a structured analytical approach to evaluate business performance, understand customer behavior, identify revenue trends, and support data-driven business decisions for the insurance sector.
