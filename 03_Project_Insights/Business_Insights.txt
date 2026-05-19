@@ -1,1 +1,10 @@
+The analysis revealed several important business insights for Shield Insurance.
 
+- Delhi NCR generated the highest revenue and customer count among all cities.
+- Customers aged between 31–40 years contributed the maximum premium revenue.
+- Offline-Agent sales mode performed better than other sales channels in terms of revenue generation.
+- Online platforms showed steady customer growth, indicating increasing digital adoption.
+- Certain insurance policies consistently generated higher premium collections.
+- Monthly trend analysis identified peak business periods with strong customer acquisitions and revenue growth.
+
+These insights helped in understanding customer behavior, market performance, and overall business growth patterns.
