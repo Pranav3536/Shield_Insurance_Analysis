@@ -1,1 +1,11 @@
 
+Shield Insurance wanted to improve business decision-making by analyzing customer behavior, revenue performance, and policy trends using data analytics.
+
+The company needed a centralized analytical solution to monitor:
+- Customer growth
+- Revenue generation
+- Sales channel performance
+- Age-group segmentation
+- Monthly business trends
+
+The goal of this project was to transform raw insurance data into meaningful insights using Power BI, SQL, and Python, helping the company identify business opportunities and improve overall performance.
