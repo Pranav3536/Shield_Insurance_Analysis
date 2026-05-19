@@ -163,7 +163,7 @@ Shield_Insurance_Analysis/
 │
 └── README.md
 
-```bash
+```
 
 
 # 📊 Power BI Dashboard
@@ -180,9 +180,8 @@ Sales mode effectiveness (Online vs Offline-Agent)
 Age-group based customer segmentation
 Monthly premium and revenue trend analysis
 Policy and settlement performance insights
-# 🔗 View the Live Interactive Dashboard
 
-# 👉 Open Power BI Dashboard
+🔗 [Open Power BI Dashboard](https://app.powerbi.com/view?r=xxxxxx)
 
 # 🏁 Conclusion
 
