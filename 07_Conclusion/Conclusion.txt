@@ -1,1 +1,7 @@
+The Shield Insurance Analysis project successfully transformed raw insurance datasets into meaningful business insights using Power BI, SQL, and Python.
 
+The dashboard provided a clear understanding of customer demographics, revenue performance, sales trends, and policy analysis across different cities and sales channels.
+
+The analysis identified key business drivers such as high-performing cities, major customer age groups, and effective sales modes contributing to company growth.
+
+Overall, this project demonstrates how data analytics and interactive dashboards can support better business decision-making and improve overall operational performance.
