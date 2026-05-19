@@ -169,17 +169,7 @@ Shield_Insurance_Analysis/
 # 📊 Power BI Dashboard
 
 This project includes an interactive Power BI dashboard designed to analyze customer behavior, revenue performance, policy trends, and city-wise insurance business performance.
-
 The dashboard provides insights into premium trends, customer segmentation, policy performance, sales channel efficiency, and settlement behavior across multiple cities.
-
-🔑 Dashboard Highlights
-Executive overview of business KPIs
-Customer growth and revenue performance tracking
-City-wise insurance performance analysis
-Sales mode effectiveness (Online vs Offline-Agent)
-Age-group based customer segmentation
-Monthly premium and revenue trend analysis
-Policy and settlement performance insights
 
 🔗 [Open Power BI Dashboard](https://app.powerbi.com/view?r=xxxxxx)
 
