@@ -1,1 +1,10 @@
+During the project development process, several challenges were identified while working with the insurance datasets.
 
+- Handling missing values and maintaining data consistency across datasets.
+- Managing relationships between multiple fact and dimension tables.
+- Creating accurate time-based analysis using date tables.
+- Cleaning and transforming raw data for dashboard reporting.
+- Building meaningful KPIs and business metrics from transactional data.
+- Designing dashboards that are both visually clear and business-focused.
+
+These challenges were addressed using SQL, Python-based data cleaning, and Power BI data modeling techniques.
