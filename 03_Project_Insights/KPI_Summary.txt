@@ -1,1 +1,15 @@
+The Shield Insurance dashboard was designed using key business KPIs to monitor company performance effectively.
 
+Main KPIs included:
+- Total Revenue Generated
+- Total Customers
+- Daily Revenue Growth
+- Daily Customer Growth
+- Revenue by Sales Mode
+- Customer Distribution by Age Group
+- City-wise Revenue Performance
+- Monthly Revenue Trends
+- Policy-wise Premium Collection
+- Settlement Percentage Analysis
+
+These KPIs provided a clear overview of business growth, customer trends, and operational performance.
