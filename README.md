@@ -1,7 +1,13 @@
 <h1 align="center">🛡️ Shield Insurance Analysis Project</h1>
 <p align="center">Power BI | SQL | Python | Data Analytics</p>
 
-👤 Author: PRANAV SHRIVASTAV
+<p align="center">
+👤 <b>Author:</b> PRANAV SHRIVASTAV
+</p>
+
+---
+
+# 📌 Project Overview
 
 Shield Insurance Analysis is an end-to-end **data analytics and business intelligence project** focused on analyzing customer behavior, revenue performance, policy trends, and sales channel effectiveness across different cities in India.
 
@@ -13,13 +19,13 @@ The objective of this project is to transform raw insurance datasets into meanin
 
 The main objectives of this project are:
 
-- Analyze overall customer growth and revenue performance
-- Understand customer demographics and purchasing behavior
-- Evaluate city-wise business performance
-- Analyze sales channel effectiveness
-- Identify top-performing insurance policies
-- Monitor monthly business growth and premium trends
-- Build an interactive Power BI dashboard for business insights
+- Analyze overall customer growth and revenue performance  
+- Understand customer demographics and purchasing behavior  
+- Evaluate city-wise business performance  
+- Analyze sales channel effectiveness  
+- Identify top-performing insurance policies  
+- Monitor monthly business growth and premium trends  
+- Build an interactive Power BI dashboard for business insights  
 
 ---
 
@@ -27,7 +33,7 @@ The main objectives of this project are:
 
 The dataset represents operational insurance data from **Shield Insurance** and contains multiple business entities used for analysis.
 
-The dataset includes:
+### Datasets Included
 
 - **Customer Data** – Customer demographics, age groups, and city information  
 - **Premium Transactions Data** – Revenue and insurance premium records  
@@ -53,15 +59,15 @@ These datasets were processed and analyzed using **SQL queries and Python notebo
 
 The Power BI dashboard provides multiple analytical views to understand insurance business performance.
 
-Key dashboard features include:
+### Key Dashboard Features
 
-- Executive overview of overall business performance
-- Customer growth and revenue analysis
-- City-wise business performance analysis
-- Sales mode and distribution analysis
-- Age-group customer segmentation
-- Monthly premium trend analysis
-- Settlement and policy performance analysis
+- Executive overview of overall business performance  
+- Customer growth and revenue analysis  
+- City-wise business performance analysis  
+- Sales mode and distribution analysis  
+- Age-group customer segmentation  
+- Monthly premium trend analysis  
+- Settlement and policy performance analysis  
 
 ---
 
@@ -69,12 +75,40 @@ Key dashboard features include:
 
 Some important insights discovered during the analysis include:
 
-- Delhi NCR generated the highest revenue and customer count
-- Customers aged between 31–40 years contributed the highest premium revenue
-- Offline-Agent sales mode performed better than other sales channels
-- Online platforms showed steady customer growth and adoption
-- Certain insurance policies consistently generated high premium collections
-- Monthly revenue trends revealed strong business growth periods
+- Delhi NCR generated the highest revenue and customer count  
+- Customers aged between **31–40 years** contributed the highest premium revenue  
+- Offline-Agent sales mode performed better than other sales channels  
+- Online platforms showed steady customer growth and adoption  
+- Certain insurance policies consistently generated high premium collections  
+- Monthly revenue trends revealed strong business growth periods  
+
+---
+
+# 🐍 Python EDA Analysis
+
+Python was used for Exploratory Data Analysis (EDA) including:
+
+- Data Import & Exploration  
+- Data Cleaning  
+- Data Transformation  
+- Revenue Analysis  
+- Customer Segmentation  
+- Monthly Trend Analysis  
+- KPI Generation  
+- Data Visualization  
+
+---
+
+# 🗄 SQL Analysis
+
+SQL queries were used to perform:
+
+- Revenue Analysis  
+- Customer Segmentation  
+- Sales Performance Analysis  
+- Policy Performance Analysis  
+- Monthly Trend Analysis  
+- KPI Calculations  
 
 ---
 
@@ -129,20 +163,18 @@ Shield_Insurance_Analysis/
 │
 └── README.md
 
-# 🚀 Power BI Dashboard
+🚀 Power BI Dashboard
 
-This project includes an interactive **Power BI dashboard** designed to analyze customer behavior, revenue performance, policy trends, and city-wise insurance business performance.
+This project includes an interactive Power BI dashboard designed to analyze customer behavior, revenue performance, policy trends, and city-wise insurance business performance.
 
 The dashboard provides insights into premium trends, customer segmentation, policy analysis, sales performance, and settlement behavior across multiple cities.
 
-🔗 **View the Live Interactive Dashboard**
+🔗 View the Live Interactive Dashboard
 
-👉 **[Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTdmZDhmZmUtZjMyNy00MDk3LTkxYzMtY2Y4NDkxZGE3N2ViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=14f5371d0915afc46e6a)**
+👉 Open Power BI Dashboard
 
----
+🏁 Conclusion
 
-# 🏁 Conclusion
+This project demonstrates how raw insurance and operational data can be transformed into meaningful insights using modern data analytics and business intelligence tools.
 
-This project demonstrates how raw insurance and operational data can be transformed into meaningful insights using modern **data analytics and business intelligence tools**.
-
-By combining **SQL, Python, and Power BI**, the project provides a structured analytical approach to evaluate business performance, understand customer behavior, identify revenue trends, and support **data-driven business decisions** for the insurance sector.
+By combining SQL, Python, and Power BI, the project provides a structured analytical approach to evaluate business performance, understand customer behavior, identify revenue trends, and support data-driven business decisions for the insurance sector.
