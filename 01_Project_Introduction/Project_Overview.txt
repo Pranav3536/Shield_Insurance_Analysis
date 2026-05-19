@@ -1,4 +1,3 @@
-
 The Shield Insurance Analysis project was developed to analyze customer demographics, revenue trends, policy performance, and sales channel effectiveness.
 
 This project uses Power BI dashboards, SQL queries, and Python-based Exploratory Data Analysis (EDA) to generate meaningful business insights from insurance datasets.
