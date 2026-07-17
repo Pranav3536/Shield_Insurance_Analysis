@@ -7,4 +7,4 @@ This project can be further enhanced by adding more advanced analytical and busi
 - Improve customer segmentation using behavioral and demographic analysis.
 - Expand dashboard capabilities with more interactive filters and drill-through reports.
 
-These improvements can help Shield Insurance make faster, smarter, and more data-driven business decisions.
+These improvements can help Shield Insurance make faster, smarter and more data-driven business decisions.
