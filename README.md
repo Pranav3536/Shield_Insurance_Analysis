@@ -9,9 +9,9 @@
 
 # 📌 Project Overview
 
-Shield Insurance Analysis is an end-to-end **data analytics and business intelligence project** focused on analyzing customer behavior, revenue performance, policy trends, and sales channel effectiveness across different cities in India.
+Shield Insurance Analysis is an end-to-end **data analytics and business intelligence project** focused on analyzing customer behavior, revenue performance, policy trends and sales channel effectiveness across different cities in India.
 
-The objective of this project is to transform raw insurance datasets into meaningful insights using **SQL, Python, Excel, and Power BI**. The analysis helps understand customer demographics, premium revenue trends, policy performance, settlement behavior, and operational growth to support **data-driven business decisions**.
+The objective of this project is to transform raw insurance datasets into meaningful insights using **SQL, Python, Excel, and Power BI**. The analysis helps understand customer demographics, premium revenue trends, policy performance, settlement behavior and operational growth to support **data-driven business decisions**.
 
 ---
 
@@ -168,14 +168,14 @@ Shield_Insurance_Analysis/
 
 # 📊 Power BI Dashboard
 
-This project includes an interactive Power BI dashboard designed to analyze customer behavior, revenue performance, policy trends, and city-wise insurance business performance.
-The dashboard provides insights into premium trends, customer segmentation, policy performance, sales channel efficiency, and settlement behavior across multiple cities.
+This project includes an interactive Power BI dashboard designed to analyze customer behavior, revenue performance, policy trends and city-wise insurance business performance.
+The dashboard provides insights into premium trends, customer segmentation, policy performance, sales channel efficiency and settlement behavior across multiple cities.
 
 👉 [Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTdmZDhmZmUtZjMyNy00MDk3LTkxYzMtY2Y4NDkxZGE3N2ViIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=14f5371d0915afc46e6a)
 
 # 🏁 Conclusion
 
-This project demonstrates how raw insurance and operational data can be transformed into meaningful business insights using SQL, Python, and Power BI.
+This project demonstrates how raw insurance and operational data can be transformed into meaningful business insights using SQL, Python and Power BI.
 
 By integrating multiple data sources and performing structured analysis, the project helps in:
 
