@@ -1,21 +1,22 @@
 Dataset Structure & Metadata
 
-The Shield Insurance Analysis project uses 6 core datasets stored inside the `/Datasets/` folder. These datasets support customer analysis, revenue tracking, policy performance, time intelligence, and settlement analysis.
+The Shield Insurance Analysis project uses 6 core datasets stored inside the `/Datasets/` folder. These datasets support customer analysis, revenue tracking, policy performance, 
+time intelligence and settlement analysis.
 
 1. dim_customer.csv
-Contains customer demographic details such as customer ID, age, age group, birth date, and city information including Delhi NCR, Mumbai, Hyderabad, Chennai, and Indore.
+Contains customer demographic details such as customer ID, age, age group, birth date and city information including Delhi NCR, Mumbai, Hyderabad, Chennai and Indore.
 
 2. dim_policies.csv
-Stores insurance policy information including policy IDs, coverage details, and premium-related information for all insurance products.
+Stores insurance policy information including policy IDs, coverage details and premium-related information for all insurance products.
 
 3. dim_date.csv
-Standard date dimension table used for calendar analysis, monthly trends, weekdays/weekends, and week-based reporting.
+Standard date dimension table used for calendar analysis, monthly trends, weekdays/weekends and week-based reporting.
 
 4. DateTable.csv
-Advanced calendar table created for Power BI time intelligence, proper month sorting, and DAX calculations.
+Advanced calendar table created for Power BI time intelligence, proper month sorting and DAX calculations.
 
 5. fact_premiums.csv
-Main transactional dataset containing premium transactions, customer IDs, policy IDs, sales modes, transaction dates, and revenue amounts.
+Main transactional dataset containing premium transactions, customer IDs, policy IDs, sales modes, transaction dates and revenue amounts.
 
 6. fact_settlements.csv
 Contains settlement and risk analysis data including age-based settlement percentages and claim-related risk metrics.
