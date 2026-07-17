@@ -1,20 +1,18 @@
-
 # Exploratory Data Analysis (EDA)
 
 This notebook contains the complete Exploratory Data Analysis (EDA) performed on the Shield Insurance dataset.
 
-The main objective of this analysis is to understand customer behavior, revenue trends, sales performance and policy insights using Python.
+The objective of this analysis is to understand customer behavior, revenue trends, sales performance and policy insights using Python.
 
-The EDA process includes:
-- Data Import and Exploration
-- Data Cleaning
-- Data Transformation
-- Business Insights Generation
-- Revenue and Customer Analysis
-- Sales Mode Analysis
-- Monthly Trend Analysis
-- Data Visualization
+The notebook is organized into the following phases:
 
-Python libraries such as Pandas, NumPy and Matplotlib were used for data analysis and visualization.
+- Phase 1 – Data Import and Data Exploration
+- Phase 2 – Data Cleaning
+- Phase 3 – Data Transformation
+- Phase 4 – Insights Generation
 
-Key insights generated from this analysis helped in building the Power BI dashboard and understanding the overall business performance of Shield Insurance.
+During the analysis, customer, premium, and policy datasets were merged and transformed to derive business insights such as revenue by city, sales mode performance, customer distribution and key business KPIs.
+
+Python libraries including Pandas, NumPy and Matplotlib were used for data manipulation, analysis and visualization.
+
+The insights generated from this notebook were further used to design the interactive Power BI dashboard for Shield Insurance.
