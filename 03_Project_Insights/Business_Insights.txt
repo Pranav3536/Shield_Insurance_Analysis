@@ -7,4 +7,4 @@ The analysis revealed several important business insights for Shield Insurance.
 - Certain insurance policies consistently generated higher premium collections.
 - Monthly trend analysis identified peak business periods with strong customer acquisitions and revenue growth.
 
-These insights helped in understanding customer behavior, market performance, and overall business growth patterns.
+These insights helped in understanding customer behavior, market performance and overall business growth patterns.
