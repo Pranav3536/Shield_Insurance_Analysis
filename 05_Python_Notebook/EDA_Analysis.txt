@@ -11,7 +11,7 @@ The notebook is organized into the following phases:
 - Phase 3 – Data Transformation
 - Phase 4 – Insights Generation
 
-During the analysis, customer, premium, and policy datasets were merged and transformed to derive business insights such as revenue by city, sales mode performance, customer distribution and key business KPIs.
+During the analysis, customer, premium and policy datasets were merged and transformed to derive business insights such as revenue by city, sales mode performance, customer distribution and key business KPIs.
 
 Python libraries including Pandas, NumPy and Matplotlib were used for data manipulation, analysis and visualization.
 
